@@ -1,0 +1,43 @@
+# Geotechnik — Oberhausen
+
+> Geotechnical engineering services in Oberhausen, Deutschland.
+
+## Services
+- [Anker](https://oberhausen.geotechnik.sbs/anker/)
+- [Aushub](https://oberhausen.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://oberhausen.geotechnik.sbs/aushub-monitoring/)
+- [Bodenverbesserung](https://oberhausen.geotechnik.sbs/bodenverbesserung/)
+- [Cpt Versuch](https://oberhausen.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://oberhausen.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://oberhausen.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://oberhausen.geotechnik.sbs/fundamente/)
+- [Geophysik](https://oberhausen.geotechnik.sbs/geophysik/)
+- [Grundungen](https://oberhausen.geotechnik.sbs/grundungen/)
+- [Hange](https://oberhausen.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://oberhausen.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://oberhausen.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://oberhausen.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://oberhausen.geotechnik.sbs/labor/)
+- [Labor In Situ](https://oberhausen.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://oberhausen.geotechnik.sbs/masw/)
+- [Pfahle](https://oberhausen.geotechnik.sbs/pfahle/)
+- [Ruttelverdichtung](https://oberhausen.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://oberhausen.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://oberhausen.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://oberhausen.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://oberhausen.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://oberhausen.geotechnik.sbs/seismische-mikrozonierung/)
+- [Starrer Belag](https://oberhausen.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://oberhausen.geotechnik.sbs/strassenbau/)
+- [Triaxialversuch](https://oberhausen.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://oberhausen.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://oberhausen.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://oberhausen.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://oberhausen.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://oberhausen.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Oberhausen, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
